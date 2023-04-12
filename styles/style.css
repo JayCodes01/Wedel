@@ -396,7 +396,7 @@ div.social {
 
 
 .modal-message {
-    background: url("../images/underConstruction.gif");
+    background: url(".../images/underConstruction.gif");
     background-repeat: no-repeat;
     background-size: fixed;
     background-position: center;
