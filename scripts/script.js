@@ -1,3 +1,5 @@
+//-- Model Box --//
+
 const modalBox = document.getElementById("myModal")
 
 const heroBtn = document.getElementById("myBtn")
