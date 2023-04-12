@@ -84,7 +84,7 @@ header {
     background:black;
 }
   
-
+/*<!-- Hero Content of the website -->*/
 
 .hero-items {
     display: flex;
@@ -169,6 +169,8 @@ header {
     transform: font-size scale(1.1);
     font-weight: bold;
 }
+
+/*<!-- Mid Section of the website -->*/
 
 .mid-container {
     display: flex;
@@ -306,7 +308,6 @@ div.social {
     filter:drop-shadow(0px 0px 5px #25D366);
   }
 
-/*<!-- Footer > About Section -->*/
 
 .links {
     list-style-type: none;
@@ -378,7 +379,6 @@ div.social {
   }
   
 
-
 /*<!-- Model Box of the website -->*/
 
 .modal-box {
@@ -396,7 +396,7 @@ div.social {
 
 
 .modal-message {
-    background: url(".../images/underConstruction.gif");
+    background: url("../images/underConstruction.gif");
     background-repeat: no-repeat;
     background-size: fixed;
     background-position: center;
